@@ -9,4 +9,4 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.0.8" % Test
 )
 
-//scalacOptions ++= Seq("-Ypartial-unification")
+scalacOptions += "-Ypartial-unification"
