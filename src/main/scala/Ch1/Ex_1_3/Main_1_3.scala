@@ -1,4 +1,4 @@
-package Ex_1_3
+package Ch1.Ex_1_3
 
 object Main_1_3 extends App {
 
@@ -10,7 +10,6 @@ object Main_1_3 extends App {
   cat.print // alternative way of doing the above
 
   Cat("Hazlenut", 16, "brown and black spotted").print
-
 
   println("Done.")
 

@@ -1,4 +1,4 @@
-package Ex_1_3
+package Ch1.Ex_1_3
 
 object PrintableSyntax {
 
